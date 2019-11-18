@@ -1,2 +1,2 @@
 # Hackerank-problemsolving
-Hackerrnak solutions with python using problem solving
+Hackerrnak solutions using python problem solving

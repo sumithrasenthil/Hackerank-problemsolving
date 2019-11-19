@@ -1,0 +1,8 @@
+a=(list(map(int, input().rstrip().split())))
+result=[]
+for i in a :
+ r=sum(a)-i
+ result.append(r)
+print(min(result),max(result))
+
+(max(result))
